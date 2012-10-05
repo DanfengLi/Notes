@@ -1,0 +1,6 @@
+* auto format according to pep8
+  > autopep8 --in-place spam.py
+
+  To install
+  > easy_install -ZU autopep8
+  (https://github.com/hhatto/autopep8)
