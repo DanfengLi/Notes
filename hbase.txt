@@ -1,0 +1,5 @@
+* to start hbase
+    1. start hadoop first: 
+    $HADOOP_HOME/bin/start-all.sh (stop-all.sh for stop)
+    2. start hbase master
+    sudo /etc/init.d/hadoop-hbase-master start (stop for stop)
